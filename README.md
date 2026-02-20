@@ -1,2 +1,2 @@
 # Pharmacy-store
-Platform Helping  you get you medicine just by click <>
+Platform Helping  you get your medicine just by click <>
